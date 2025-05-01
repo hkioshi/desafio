@@ -18,11 +18,11 @@ pip install requests
 
 ## 🚀 Como usar
 
-1. Salve o código em um arquivo, por exemplo `gabriel_top10.py`.
+1. Baixe o script
 2. Execute o script no terminal:
 
 ```bash
-python gabriel_top10.py
+python Desafio_Henrique_kioshi.py.py
 ```
 
 3. Aguarde a execução (pode levar alguns minutos, pois há um `sleep(0.5)` entre as requisições para evitar bloqueios).
