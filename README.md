@@ -22,7 +22,7 @@ pip install requests
 2. Execute o script no terminal:
 
 ```bash
-python Desafio_Henrique_kioshi.py.py
+python Desafio_Henrique_kioshi.py
 ```
 
 3. Aguarde a execução (pode levar alguns minutos, pois há um `sleep(0.5)` entre as requisições para evitar bloqueios).
